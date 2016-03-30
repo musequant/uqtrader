@@ -1,0 +1,10 @@
+requests
+logbook==0.12.5
+demjson==2.2.4
+anyjson
+dill
+click
+six
+flask
+tushare
+easytrader
